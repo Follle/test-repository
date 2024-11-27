@@ -2,8 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Сулимова Ангелина Алексеевна";
 
+  const greeting = "Это тестовый проект Сулимовай Ангелины Алексеевны";
+
+  // console.log('This is App ');
   return (
     <div className="App">
      <header className="App-header">
