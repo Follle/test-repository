@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  const greeting = "Это тестовый проект Сулимовай Ангелины Алексеевны";
+  const greeting = "Это тестовый проект Сулимовой А.А.";
 
   // console.log('This is App ');
   return (
